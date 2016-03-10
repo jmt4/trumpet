@@ -1,0 +1,331 @@
+{
+u'contributors': None, 
+u'truncated': False, 
+u'text': u'RT @EricTrump: Friends: Remember to VOTE tomorrow if you live in Louisiana, Maine, Kentucky or Kansas!  \U0001f1fa\U0001f1f8\U0001f1fa\U0001f1f8#MakeAmericaGreatAgain https://\u2026', 
+u'is_quote_status': False, 
+u'in_reply_to_status_id': None, 
+u'id': 705903554377052162, 
+u'favorite_count': 0, 
+u'source': u'<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>', 
+u'retweeted': False, 
+u'coordinates': None,
+************************************************************************************************************************
+*************************************************<ENTITIES>*************************************************************
+************************************************************************************************************************
+u'entities': {
+	u'symbols': [], 
+	u'user_mentions': [{
+		u'id': 39349894, 
+		u'indices': [3, 13], 
+		u'id_str': u'39349894', 
+		u'screen_name': u'EricTrump', 
+		u'name': u'Eric Trump'
+	}], 
+	u'hashtags': [{
+		u'indices': [108, 130], 
+		u'text': u'MakeAmericaGreatAgain'
+	}], 
+	u'urls': [], 
+	u'media': [{
+		u'source_user_id': 39349894, 
+		u'source_status_id_str': u'705894919165059072', 
+		u'expanded_url': u'http://twitter.com/EricTrump/status/705894919165059072/photo/1', 
+		u'display_url': u'pic.twitter.com/7aYYhbXkg8', 
+		u'url': u'https://t.co/7aYYhbXkg8', 
+		u'media_url_https': u'https://pbs.twimg.com/media/CcvXsFnW8AAqGzX.jpg', 
+		u'source_user_id_str': u'39349894', 
+		u'source_status_id': 705894919165059072, 
+		u'id_str': u'705894919035088896', 
+		u'sizes': {
+			u'large': {
+				u'h': 360, 
+				u'resize': u'fit', 
+				u'w': 640
+			}, 
+			u'small': {
+				u'h': 191, 
+				u'resize': u'fit', 
+				u'w': 340
+			}, 
+			u'medium': {
+				u'h': 338, 
+				u'resize': u'fit', 
+				u'w': 600
+			}, 
+			u'thumb': {
+				u'h': 150, 
+				u'resize': u'crop', 
+				u'w': 150
+			}
+		}, 
+		u'indices': [139, 140], 
+		u'type': u'photo', 
+		u'id': 705894919035088896, 
+		u'media_url': u'http://pbs.twimg.com/media/CcvXsFnW8AAqGzX.jpg'
+	}]
+},
+************************************************************************************************************************
+*************************************************<\ENTITIES>************************************************************
+************************************************************************************************************************
+u'in_reply_to_screen_name': None, 
+u'id_str': u'705903554377052162', 
+u'retweet_count': 2614, 
+u'in_reply_to_user_id': None, 
+u'favorited': False, 
+u'retweeted_status': {
+	u'contributors': None, 
+	u'truncated': False, 
+	u'text': u'Friends: Remember to VOTE tomorrow if you live in Louisiana, Maine, Kentucky or Kansas!  \U0001f1fa\U0001f1f8\U0001f1fa\U0001f1f8#MakeAmericaGreatAgain https://t.co/7aYYhbXkg8', 
+	u'is_quote_status': False, 
+	u'in_reply_to_status_id': None, 
+	u'id': 705894919165059072, 
+	u'favorite_count': 6236, 
+	u'source': u'<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>', 
+	u'retweeted': False, 
+	u'coordinates': None, 
+	u'entities': {
+		u'symbols': [], 
+		u'user_mentions': [], 
+		u'hashtags': [{
+			u'indices': [93, 115], 
+			u'text': u'MakeAmericaGreatAgain'
+		}], 
+		u'urls': [], 
+		u'media': [{
+			u'expanded_url': u'http://twitter.com/EricTrump/status/705894919165059072/photo/1', 
+			u'display_url': u'pic.twitter.com/7aYYhbXkg8', 
+			u'url': u'https://t.co/7aYYhbXkg8', 
+			u'media_url_https': u'https://pbs.twimg.com/media/CcvXsFnW8AAqGzX.jpg', 
+			u'id_str': u'705894919035088896', 
+			u'sizes': {
+				u'large': {
+					u'h': 360, 
+					u'resize': u'fit', 
+					u'w': 640
+				}, 
+				u'small': {
+					u'h': 191, 
+					u'resize': u'fit', 
+					u'w': 340
+				}, 
+				u'medium': {
+					u'h': 338, 
+					u'resize': u'fit', 
+					u'w': 600
+				}, 
+				u'thumb': {
+					u'h': 150, 
+					u'resize': u'crop', 
+					u'w': 150
+				}
+			}, 
+			u'indices': [116, 139], 
+			u'type': u'photo', 
+			u'id': 705894919035088896, 
+			u'media_url': u'http://pbs.twimg.com/media/CcvXsFnW8AAqGzX.jpg'
+		}]
+	}, 
+
+	u'in_reply_to_screen_name': None, 
+	u'id_str': u'705894919165059072', 
+	u'retweet_count': 2614, 
+	u'in_reply_to_user_id': None, 
+	u'favorited': False, 
+	u'user': {
+		u'follow_request_sent': False, 
+		u'has_extended_profile': False, 
+		u'profile_use_background_image': True, 
+		u'default_profile_image': False, 
+		u'id': 39349894, 
+		u'profile_background_image_url_https': u'https://pbs.twimg.com/profile_background_images/606905456/lnr59qa2t3dugk1il0kx.jpeg', 
+		u'verified': True, 
+		u'profile_text_color': u'000000', 
+		u'profile_image_url_https': u'https://pbs.twimg.com/profile_images/545706713739845633/rFE8KPEc_normal.jpeg', 
+		u'profile_sidebar_fill_color': u'616161', 
+		u'entities': {
+			u'url': {
+				u'urls': [{
+					u'url': u'https://t.co/6aoRQsUeaK', 
+					u'indices': [0, 23], 
+					u'expanded_url': u'http://www.erictrumpfoundation.com', 
+					u'display_url': u'erictrumpfoundation.com'
+				}]
+			}, 
+			u'description': {u'urls': []}
+		}, 
+		u'followers_count': 244440, 
+		u'profile_sidebar_border_color': u'000000', 
+		u'id_str': u'39349894', 
+		u'profile_background_color': u'000000', 
+		u'listed_count': 1318, 
+		u'is_translation_enabled': False, 
+		u'utc_offset': -18000, 
+		u'statuses_count': 3485, 
+		u'description': u'EVP of Development & Acquisitions. The #Trump Organization. Boardroom & Task Advisor @ApprenticeNBC. Founder of @EricTrumpFDN benefiting @StJude. #Trump2016', 
+		u'friends_count': 394, 
+		u'location': u'', 
+		u'profile_link_color': u'116AB8', 
+		u'profile_image_url': u'http://pbs.twimg.com/profile_images/545706713739845633/rFE8KPEc_normal.jpeg', 
+		u'following': False, 
+		u'geo_enabled': True, 
+		u'profile_banner_url': u'https://pbs.twimg.com/profile_banners/39349894/1456446607', 
+		u'profile_background_image_url': u'http://pbs.twimg.com/profile_background_images/606905456/lnr59qa2t3dugk1il0kx.jpeg', 
+		u'screen_name': u'EricTrump', 
+		u'lang': u'en', 
+		u'profile_background_tile': True, 
+		u'favourites_count': 1983, 
+		u'name': u'Eric Trump', 
+		u'notifications': False, 
+		u'url': u'https://t.co/6aoRQsUeaK', 
+		u'created_at': u'Mon May 11 21:42:30 +0000 2009', 
+		u'contributors_enabled': False, 
+		u'time_zone': u'Quito', 
+		u'protected': False, 
+		u'default_profile': False, 
+		u'is_translator': False
+	}, 
+	u'geo': None, 
+	u'in_reply_to_user_id_str': None, 
+	u'possibly_sensitive': False, 
+	u'lang': u'en', 
+	u'created_at': u'Fri Mar 04 23:17:18 +0000 2016', 
+	u'in_reply_to_status_id_str': None, 
+	u'place': None, 
+	u'extended_entities': {
+		u'media': [{
+			u'expanded_url': u'http://twitter.com/EricTrump/status/705894919165059072/photo/1', 
+			u'display_url': u'pic.twitter.com/7aYYhbXkg8', 
+			u'url': u'https://t.co/7aYYhbXkg8', 
+			u'media_url_https': u'https://pbs.twimg.com/media/CcvXsFnW8AAqGzX.jpg', 
+			u'id_str': u'705894919035088896', 
+			u'sizes': {
+				u'large': {
+					u'h': 360, 
+					u'resize': u'fit', 
+					u'w': 640
+				}, 
+				u'small': {
+					u'h': 191, 
+					u'resize': u'fit', 
+					u'w': 340
+				}, 
+				u'medium': {
+					u'h': 338, 
+					u'resize': u'fit', 
+					u'w': 600
+				}, 
+				u'thumb': {
+					u'h': 150, 
+					u'resize': u'crop', 
+					u'w': 150
+				}
+			}, 
+			u'indices': [116, 139], 
+			u'type': u'photo', 
+			u'id': 705894919035088896, 
+			u'media_url': u'http://pbs.twimg.com/media/CcvXsFnW8AAqGzX.jpg'
+		}]
+	}
+}, 
+
+	u'user': {
+		u'follow_request_sent': False, 
+		u'has_extended_profile': False, 
+		u'profile_use_background_image': True, 
+		u'default_profile_image': False, 
+		u'id': 25073877, 
+		u'profile_background_image_url_https': u'https://pbs.twimg.com/profile_background_images/530021613/trump_scotland__43_of_70_cc.jpg', 
+		u'verified': True, 
+		u'profile_text_color': u'333333', 
+		u'profile_image_url_https': u'https://pbs.twimg.com/profile_images/1980294624/DJT_Headshot_V2_normal.jpg', 
+		u'profile_sidebar_fill_color': u'C5CEC0', 
+		u'entities': {
+			u'url': {
+				u'urls': [{
+					u'url': u'https://t.co/mZB2hymxC9', 
+					u'indices': [0, 23], 
+					u'expanded_url': u'http://www.DonaldJTrump.com', 
+					u'display_url': u'DonaldJTrump.com'
+				}]
+			}, 
+			u'description': {
+				u'urls': []
+			}
+		}, 
+		u'followers_count': 6667406, 
+		u'profile_sidebar_border_color': u'BDDCAD', 
+		u'id_str': u'25073877', 
+		u'profile_background_color': u'6D5C18', 
+		u'listed_count': 30941, 
+		u'is_translation_enabled': True, 
+		u'utc_offset': -18000, 
+		u'statuses_count': 31143, 
+		u'description': u'#MakeAmericaGreatAgain #Trump2016', 
+		u'friends_count': 42, 
+		u'location': u'New York, NY', 
+		u'profile_link_color': u'0D5B73', 
+		u'profile_image_url': u'http://pbs.twimg.com/profile_images/1980294624/DJT_Headshot_V2_normal.jpg', 
+		u'following': False, 
+		u'geo_enabled': True, 
+		u'profile_banner_url': u'https://pbs.twimg.com/profile_banners/25073877/1457034528', 
+		u'profile_background_image_url': u'http://pbs.twimg.com/profile_background_images/530021613/trump_scotland__43_of_70_cc.jpg', 
+		u'screen_name': u'realDonaldTrump', 
+		u'lang': u'en', 
+		u'profile_background_tile': True, 
+		u'favourites_count': 68, 
+		u'name': u'Donald J. Trump', 
+		u'notifications': False, 
+		u'url': u'https://t.co/mZB2hymxC9', 
+		u'created_at': u'Wed Mar 18 13:46:38 +0000 2009', 
+		u'contributors_enabled': False, 
+		u'time_zone': u'Eastern Time (US & Canada)', 
+		u'protected': False, 
+		u'default_profile': False, 
+		u'is_translator': False}, 
+		u'geo': None, 
+		u'in_reply_to_user_id_str': None, 
+		u'possibly_sensitive': False, 
+		u'lang': u'en', 
+		u'created_at': u'Fri Mar 04 23:51:37 +0000 2016', 
+		u'in_reply_to_status_id_str': None, 
+		u'place': None, 
+		u'extended_entities': {
+			u'media': [{
+				u'source_user_id': 39349894, 
+				u'source_status_id_str': u'705894919165059072', 
+				u'expanded_url': u'http://twitter.com/EricTrump/status/705894919165059072/photo/1', 
+				u'display_url': u'pic.twitter.com/7aYYhbXkg8', 
+				u'url': u'https://t.co/7aYYhbXkg8', 
+				u'media_url_https': u'https://pbs.twimg.com/media/CcvXsFnW8AAqGzX.jpg', 
+				u'source_user_id_str': u'39349894', 
+				u'source_status_id': 705894919165059072, 
+				u'id_str': u'705894919035088896', 
+				u'sizes': {
+					u'large': {
+						u'h': 360, 
+						u'resize': u'fit', 
+						u'w': 640
+					}, 
+					u'small': {
+						u'h': 191, 
+						u'resize': u'fit', 
+						u'w': 340
+					}, 
+					u'medium': {
+						u'h': 338, 
+						u'resize': u'fit', 
+						u'w': 600
+					}, 
+					u'thumb': {
+						u'h': 150, 
+						u'resize': u'crop', 
+						u'w': 150
+					}
+				}, 
+				u'indices': [139, 140], 
+				u'type': u'photo', 
+				u'id': 705894919035088896, 
+				u'media_url': u'http://pbs.twimg.com/media/CcvXsFnW8AAqGzX.jpg'
+			}]
+		}
+	}
